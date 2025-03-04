@@ -9,13 +9,13 @@ function Nav() {
        <Logo />
         <ul className="flex  items-center  h-[56px] gap-[4px]">
         <NavLink to="/home" className={({ isActive }) =>
-              isActive ? "text-blue-500 px-4" : "text-black px-4"
+              isActive ? "text-black px-4" : "text-blue-500 px-4"
           }>Home</NavLink>
            <NavLink to="jobs" className={({ isActive }) =>
-              isActive ? "text-blue-500 px-4" : "text-black px-4"
+              isActive ?  "text-black px-4" : "text-blue-500 px-4"
           }>Jobs</NavLink>
-           <NavLink to="/admin" className={({ isActive }) =>
-              isActive ? "text-blue-500 px-4" : "text-black px-4"
+           <NavLink to="/home/addjob" className={({ isActive }) =>
+              isActive ?  "text-black px-4" : "text-blue-500 px-4"
           }>Add Jobs</NavLink>
           
         </ul>

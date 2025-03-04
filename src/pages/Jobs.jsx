@@ -1,5 +1,5 @@
 import React from 'react'
-import AllJobList from '../components/AllJobList'
+import AllJobList from '../../components/AllJobList'
 
 function Jobs() {
   return (
