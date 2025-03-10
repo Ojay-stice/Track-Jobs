@@ -34,7 +34,7 @@ function AllJobList() {
             }finally{
                 // setisLoading(false)
             }
-
+            console.log(jobs.company.name)
         }
         fetchJobs();
     }, [])
@@ -61,11 +61,11 @@ function AllJobList() {
   return (
     <section> 
     <h2>All Jobs listings</h2>
-      <div className='grid grid-cols-3'>
+      <div className='grid grid-cols-3 gap-4'>
         {
-            jobs.map((job) => {
+            jobs.map((job) => (
                 <Jobcard job={job} key={job.id}/>
-            })
+            ))
         }
       </div>
        

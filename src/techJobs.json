@@ -1,4 +1,4 @@
-{ 
+{
   "jobs": [
     {
       "id": "1",
@@ -15,23 +15,9 @@
       }
     },
     {
-      "id": "2",
-      "title": "Front-End Engineer (React & Redux)",
-      "type": "Full-Time",
-      "location": "Miami, FL",
-      "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
-      "salary": "$70K - $80K",
-      "company": {
-        "name": "Veneer Solutions",
-        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
-        "contactEmail": "contact@loremipsum.com",
-        "contactPhone": "555-555-5555"
-      }
-    },
-    {
       "id": "3",
       "title": "React.js Dev",
-      "type": "Full-Time",
+      "type": "Remote",
       "location": "Brooklyn, NY",
       "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
       "salary": "$70K - $80K",
@@ -66,8 +52,7 @@
       "company": {
         "name": "Browning Technologies",
         "description": "Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
-
-"contactEmail": "contact@consecteturadipisicing.com",
+        "contactEmail": "contact@consecteturadipisicing.com",
         "contactPhone": "555-555-5555"
       }
     },
@@ -144,7 +129,7 @@
     {
       "id": "11",
       "title": "React Team Lead",
-      "type": "Full-Time",
+      "type": "Part-Time",
       "description": "Lead our talented React development team in Chicago, IL. Mentor junior developers and drive the success of our projects.",
       "location": "Chicago, IL",
       "salary": "$130K - $150K",
@@ -157,8 +142,7 @@
     },
     {
       "id": "12",
-
-"title": "Senior Front-End Developer",
+      "title": "Senior Front-End Developer",
       "type": "Full-Time",
       "description": "Senior Front-End developer position available in Seattle, WA. Join a team of skilled professionals and help architect our next-generation web applications.",
       "location": "Seattle, WA",
@@ -250,8 +234,7 @@
       "company": {
         "name": "Queen City Tech",
         "description": "Queen City Tech specializes in creating robust and scalable web applications for various industries.",
-
-"contactEmail": "contact@queencitytech.com",
+        "contactEmail": "contact@queencitytech.com",
         "contactPhone": "555-111-3333"
       }
     },
@@ -284,32 +267,32 @@
       }
     },
     {
-      "id": "21",
-      "title": "Senior React Developer",
-      "type": "Full-Time",
-      "description": "We are seeking a talented Senior React Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript.",
-      "location": "Boston, MA",
-      "salary": "$120K - $140K",
+      "id": "f850",
+      "title": "",
+      "type": "Full-time",
+      "description": "",
+      "location": "",
+      "salary": "under 50k",
       "company": {
-        "name": "Boston Tech Co.",
-        "description": "Boston Tech Co. is a leading technology company specializing in web development and digital solutions.",
-        "contactEmail": "contact@bostontechco.com",
-        "contactPhone": "555-555-5555"
+        "name": "",
+        "description": "",
+        "contactEmail": "",
+        "contactPhone": ""
       }
     },
     {
-      "id": "22",
-      "title": "Junior React Developer",
-      "type": "Full-Time",
-      "location": "San Francisco, CA",
-      "description": "Join our team as a Junior React Developer in San Francisco, CA. We are looking for a motivated individual with a passion for crafting web applications.",
-      "salary": "$70K - $90K",
+      "id": "07ed",
+      "title": "Junior Backend developer",
+      "type": "Full-time",
+      "description": "Build Api's, and system logic",
+      "location": "Port Harcourt, Rivers",
+      "salary": "under 50k",
       "company": {
-        "name": "Bay Area Web Dev",
-        "description": "Bay Area Web Dev is a creative agency specializing in digital design and development.",
-        "contactEmail": "contact@bayareawebdev.com",
-        "contactPhone": "555-555-5555"
+        "name": "Ojay-Stice ",
+        "description": "Build softer application.",
+        "contactEmail": "justiceobulor1010@gmail.com",
+        "contactPhone": "555-777-8888"
       }
     }
-   ]
+  ]
 }
